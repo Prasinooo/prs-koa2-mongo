@@ -1,0 +1,19 @@
+{
+  "name": "prs-koa2-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prasinooo/prs-koa2-mongo.git"
+  },
+  "author": "valerie.fu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prasinooo/prs-koa2-mongo/issues"
+  },
+  "homepage": "https://github.com/Prasinooo/prs-koa2-mongo#readme"
+}
